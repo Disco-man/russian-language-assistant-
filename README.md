@@ -41,5 +41,6 @@ Open browser at `http://localhost:8501`
 4. Click "🎲 Сгенерировать текст для анализа" to generate text to test yourself
 5. View results in the table
 
-https://github.com/user-attachments/assets/bcdabac0-f572-456a-9947-407d8568d4c4
+https://github.com/user-attachments/assets/bcdabac0-f572-456a-9947-407d8568d4c4       
+P.S. There might be some oddities in the text because we translated it using AI
 
