@@ -4,7 +4,7 @@ A Streamlit app for analyzing Russian text with OCR, morphological and syntactic
 
 ## Features
 
-- **OCR** — Extract text from images using ChatGPT Vision API
+- **OCR** — Extract text from images using ChatGPT Vision API. Also works with handwritten text
 - **Morphological Analysis** — Identify parts of speech, lemmas, grammatical properties  
 - **Syntactic Analysis** — Analyze word dependencies (subject, predicate, object, etc.)
 
